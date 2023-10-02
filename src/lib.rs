@@ -1,1 +1,2 @@
-pub mod bst;
+pub mod algorithms;
+pub mod data_structures;
