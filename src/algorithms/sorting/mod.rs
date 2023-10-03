@@ -1,4 +1,5 @@
-pub mod insertion_sort;
+pub mod insertion;
+pub mod merge;
 
 #[cfg(test)]
 fn is_sorted(array: &[i32]) -> bool {
